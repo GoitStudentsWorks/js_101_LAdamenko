@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-united-minds-js/",
+    "build": "vite build --base=/js_101_LAdamenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
